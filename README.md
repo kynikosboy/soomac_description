@@ -1,8 +1,8 @@
-### SOOMAC's ROBOT ARM Description for value-up 2024 
+## SOOMAC ROBOT ARM Description for Value-Up 2024 
 
 ![soomac_v2_3](https://github.com/kynikosboy/soomac_description/assets/123644327/8b8cd822-5a01-427d-b0a4-de958083e000)
 
-it's a prototype model and purposed to confrim some kinematic movements of the robot arm (version 1.0)
+it's a prototype model and purposed to confrim some kinematic movements of the robot arm (version 1.7.11)
 
 ### Initial State
 
